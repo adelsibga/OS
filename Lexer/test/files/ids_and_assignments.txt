@@ -1,0 +1,11 @@
+// id rule: id have to begin with letter and consist of letters and digits.
+// variable value could be string or number. There is support of 16, 10, 8 and 2 notation number
+a = 1;
+float b = "string";
+bFFF = 0xFF;
+b777 = 0e777;
+b101 = 0b010101;
+
+// also number could be float
+
+floatNumber = 1.231231;

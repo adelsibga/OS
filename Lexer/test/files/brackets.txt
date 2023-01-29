@@ -1,0 +1,4 @@
+// u should use brackets only in the same way:
+// separate opening and closing brackets with content in there
+
+int a = ( 123 * 123 ) / "index" + ( ( 1 - 2 ) / 3 );
